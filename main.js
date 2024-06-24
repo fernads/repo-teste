@@ -1,3 +1,4 @@
+
 console.log('Aplicativo rodando');
 console.log('TicketConsulta V1.0 - Beta')
 
